@@ -1,0 +1,28 @@
+#idCard {
+    border: 3px solid #000;
+    background-color: #303469;
+    background-image: linear-gradient(#303469, #339983);
+    border-radius: 20px;
+    color: #fff;
+}
+#idCard .logo img {
+    width: 50px !important;
+    height: 50px !important;
+    padding: 2px;
+    background: #d1d1d6;
+    border-radius: 10px;
+}
+.data {
+    color: orange;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.img-teacher {
+    height: 120px;
+    padding: 4px;
+    background: #d1d1d6;
+    border-radius: 7px;
+}
+#postFullName {
+    font-family: roboto, sans-serif;
+}
